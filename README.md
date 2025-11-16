@@ -16,7 +16,8 @@ Expected Result: The product image fills the box entirely
 
 Actual Result: The image has a white space on the right
 Screenshot
-<img width="1440" height="782" alt="11" src="https://github.com/user-attachments/assets/abc0f7ae-d573-4e19-93c2-a35a92c70571" />
+[bug1.pdf](https://github.com/user-attachments/files/23570732/bug1.pdf)
+
 
 
 Bug #2: Functional Bug - Filter by price doesn't work in the product details or product list pages.
@@ -37,7 +38,7 @@ Expected Result: A list of products in the selected price range is shown
 
 Actual Result: The same page reloads
 Screenshot
-<img width="1440" height="784" alt="22" src="https://github.com/user-attachments/assets/6ed3616d-e359-4057-b7e3-1dd426447ddb" />
+<img width="1414" height="775" alt="2" src="https://github.com/user-attachments/assets/8459a3b4-609c-444a-950e-904ca91a6d34" />
 
 
 
@@ -58,6 +59,6 @@ Expected Result: The selected number of results is displayed according to the cl
 
 Actual Result: The page freezes when clicking on the numbers of results
 Screenshot
-<img width="1440" height="782" alt="33" src="https://github.com/user-attachments/assets/f76545d6-4f10-4137-a16a-1f387df1fc44" />
+[bug3.pdf](https://github.com/user-attachments/files/23570734/bug3.pdf)
 
 
