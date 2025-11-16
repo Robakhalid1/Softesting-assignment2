@@ -6,7 +6,9 @@ A list of issues found on the Academy Bugs website is stored in this repository,
 Bug #1: Visual Bug – The image is not fully displayed.
 
 Severity: Medium
+
 Issue Type: Visual
+
 Frequency: Every Time
 
 Action Performed
@@ -26,7 +28,9 @@ Screenshot
 Bug #2: Functional Bug - Filter by price doesn't work in the product details or product list pages.
 
 Severity: Medium
+
 Issue Type: Functional
+
 Frequency: Every Time
 
 Action Performed
@@ -50,7 +54,9 @@ Screenshot
 Bug #3: Crash Bug - Page becomes unresponsive when clicking on the numbers of results.
 
 Severity: High
+
 Issue Type: Crash
+
 Frequency: Every Time
 
 Action Performed
