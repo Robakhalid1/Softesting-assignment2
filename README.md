@@ -1,6 +1,8 @@
 # Softesting-assignment2
 Assignment 2 - Bug Reporting
+
 A list of issues found on the Academy Bugs website is stored in this repository, these problems negatively affect users and need to be fixed.
+
 Bug #1: Visual Bug – The image is not fully displayed.
 
 Severity: Medium
