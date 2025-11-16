@@ -16,7 +16,8 @@ Expected Result: The product image fills the box entirely
 
 Actual Result: The image has a white space on the right
 Screenshot
-[bug1.pdf](https://github.com/user-attachments/files/23570732/bug1.pdf)
+<img width="1440" height="782" alt="11" src="https://github.com/user-attachments/assets/7bf5f15c-a589-4d88-a0ec-4cdff4c6a4ee" />
+
 
 
 
@@ -59,6 +60,7 @@ Expected Result: The selected number of results is displayed according to the cl
 
 Actual Result: The page freezes when clicking on the numbers of results
 Screenshot
-[bug3.pdf](https://github.com/user-attachments/files/23570734/bug3.pdf)
+<img width="1440" height="782" alt="33" src="https://github.com/user-attachments/assets/6e66ea12-4438-4418-95ff-19f2b4f59a62" />
+
 
 
